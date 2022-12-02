@@ -1,5 +1,14 @@
 # csci544-group32
 
+## Members:
+1. Bryan Ho
+2. Dweepa Honnavalli
+3. Gopi K Y Gavuji
+4. Mollee Jain
+5. Rahul Kishan
+
+## Notebooks & Code Summary
+
 We had three tasks we have notebooks for:
   1. Baselines
   2. Hierarchical Model
@@ -15,4 +24,4 @@ We had three tasks we have notebooks for:
 
 2. Hierarchical Model: `CNN_LSTM_Attention.ipynb`
 
-3. Feedback: `<TO UPDATE>`
+3. Feedback: `Feedback_Model.ipynb`
